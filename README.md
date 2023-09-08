@@ -1,1 +1,1 @@
-# offfmx_2023_TD_workshop
+# OFFF CDMX 2023 TouchDesigner Intermediate Workshop
