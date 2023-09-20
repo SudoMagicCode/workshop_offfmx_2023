@@ -19,8 +19,9 @@
 
 | File | Summary 
 | ---  | ---
-| `SudoMagic\references\data` | contains several files used for instancing techniques in the workshop
-| `SudoMagic\references\top_math.toe` | 
+| `SudoMagic\references\data` | Contains several files used for instancing techniques in the workshop
+| `SudoMagic\references\glsl\sdfLib.glsl` | SDF library from [IQ] 
+| `SudoMagic\references\top_math.toe` | Contains reference TOP math techniques.
 | `SudoMagic\offf_2023_SudoMagic_TD_pointclouds.toe`| End of workshop example file. 
 
 ### Intro to Intermediate Instancing
@@ -31,3 +32,7 @@ text
 ## Spectra
 
 ### Interactive Particles
+
+
+<!-- links -->
+[IQ]:https://iquilezles.org/articles/distfunctions/
