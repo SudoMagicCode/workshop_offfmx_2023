@@ -26,13 +26,13 @@
 
 ### Intro to Intermediate Instancing
 
-Summary Text
+When you're first getting started with instances it's easy to quickly feel like you've reached the limit of what you can create. As we start to explore some intermediate and advanced techniques for instancing there are more features of the `Geo COMP` we can use. We'll start by taking a closer look at how to work with many more instances by doing the computation for their movement in TOPs.
 
 ![image](assets/imgs/distruption-fields-01.png)
 
 ### Instancing & Point Clouds
 
-Summary Text
+Manipulating point clouds often means thinking about your points spatially. We'll explore how we can use some simple tricks with a bit of math to calculate distance, create bounding fields where we can manipulate our points, and how some of the secrets of the Point Transform TOP. 
 
 ![image](assets/imgs/distruption-fields-02.png)
 
